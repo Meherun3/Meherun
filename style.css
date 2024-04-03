@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.border-width{
+    border-width: 10px!important;
+}
+
+.header-height{
+    height: 100px;
+}
+
+.nav-height{
+    height: 60px;
+}
+
+.content-height{
+    min-height: 600px;
+}
